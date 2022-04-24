@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+    <ServerIP>127.0.0.1</ServerIP>
+    <ServerPort>7777</ServerPort>
+    <ServerName>TCP/IP Server</ServerName>
+    <TestServer>true</TestServer>
+</server>
